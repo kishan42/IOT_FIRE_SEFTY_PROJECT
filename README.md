@@ -1,1 +1,3 @@
 # IOT_FIRE_SEFTY_PROJECT
+
+The prototype of this project is that when there is a fire or gas leak in an institution or a house, the electricity in the house will automatically shut off and the fire extinguisher pin will automatically open or the water motor will automatically start to automatically inject water and carbon monoxide inside the room. At the same time, the fire-boat automatically informs the fire-safety department and the owner of the establishment about the place where the incident has taken place through phone and message so that they can come to the scene and start rescue operations and avoid any casualties.
